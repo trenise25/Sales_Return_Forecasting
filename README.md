@@ -191,24 +191,4 @@ The dashboard features:
 4. **Cost Reduction**: Minimize overstocking and storage costs
 5. **Customer Satisfaction**: Reduce stockouts through better planning
 
-## 🤝 Contributing
 
-Feel free to fork this project and customize it for your specific needs. Some ideas:
-- Add more sophisticated features (promotions, seasonality indicators)
-- Implement additional forecasting models (Prophet, ARIMA)
-- Enhance the dashboard with more visualizations
-- Add database integration for real-time data
-
-## 📝 License
-
-This project is open source and available for educational and commercial use.
-
-## 🙏 Acknowledgments
-
-- TensorFlow team for the excellent deep learning framework
-- Streamlit for the intuitive dashboard framework
-- Plotly for beautiful interactive visualizations
-
----
-
-**Built with ❤️ using Python, TensorFlow, and Streamlit**
