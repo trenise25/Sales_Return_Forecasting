@@ -2,6 +2,7 @@
 
 A comprehensive machine learning system that uses LSTM (Long Short-Term Memory) neural networks to forecast sales returns and demand, enabling optimized inventory planning and reducing overstocking.
 
+### Tableau Dashboard link: "https://public.tableau.com/views/CreditRiskAnalysis_17644870375980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
 ## 🎯 Features
 
 - **LSTM-based Forecasting**: Deep learning models for accurate time-series predictions
